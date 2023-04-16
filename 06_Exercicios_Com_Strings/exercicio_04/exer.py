@@ -1,7 +1,6 @@
-# Nome na vertical em escada. Modifique o programa anterior de forma a mostrar o nome em formato de escada.
-# F
-# FU
-# FUL
-# FULA
-# FULAN
-# FULANO
+lista = ["1", "2", "3", "4", "5"]
+
+saida = ","
+
+saida = saida.join(lista)
+print(saida)

@@ -5,3 +5,8 @@
 # A
 # N
 # O
+
+nome = input("Informe o seu nome: ").upper()
+
+for letra in nome:
+  print(letra)
